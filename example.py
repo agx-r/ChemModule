@@ -1,4 +1,4 @@
-from chem_module import ChemModule
+from chemmodule import ChemModule
 
 chem = ChemModule()
 
